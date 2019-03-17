@@ -12,12 +12,12 @@ namespace WildernessCallouts.Dialogues
         {
             new string[]
             {
-                "~b~" + Settings.General.Name + ": ~w~Hi, do you have any problem?",
-                "~b~Person: ~w~Not really, who call you? My wife? She worries too much when I go on my walks.", 
+                "~b~" + Settings.General.Name + ": ~w~Hello! Do you require any assistance?",
+                "~b~Person: ~w~Not really, who called you? My wife? She worries too much when I go on my walks.", 
             },
             new string[]
             {
-                "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you need my assistance?",
+                "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you require any assistance?",
                 "~b~Person: ~w~No, I'm good, I dont know who could have call you", 
             },
         };
@@ -27,13 +27,13 @@ namespace WildernessCallouts.Dialogues
         {
             new string[]
             {
-                "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you need my assistance?",
-                "~b~Person: ~w~Yes, please. I hurt my ankle and I can't move.", 
-                "~b~Person: ~w~Can you call a ambulance I've been stuck here for hours.", 
+                "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you require any assistance?",
+                "~b~Person: ~w~Yes, please. I hurt busted up my ankle and have been unable to move.", 
+                "~b~Person: ~w~Can you call an ambulance; I've been stuck here for hours!", 
             },
             new string[]
             {
-                "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you need my assistance?",
+                "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you require any assistance?",
                 "~b~Person: ~w~My chest feels tight and I'm so short of breath I can hardly walk.", 
                 "~b~Person: ~w~I don't think I can make it out of here on my own to feet.", 
             },
@@ -44,14 +44,14 @@ namespace WildernessCallouts.Dialogues
         {
             new string[]
             {
-                "~b~" + Settings.General.Name + ": ~w~Do you need help?",
+                "~b~" + Settings.General.Name + ": ~w~Do you require any assistance?",
                 "~b~Person: ~w~Who the fuck are you? I was here relaxed having few beers, I don't need any help.", 
             },
             new string[]
             {
                 "~b~" + Settings.General.Name + ": ~w~We received a call that you may be lost. Do you need my assistance?",
-                "~b~Person: ~w~Yes, I was with my friends having few whisky bottles and I fell asleep,", 
-                "~b~Person: ~w~and then when I woke up I was here and I don't know where I am.", 
+                "~b~Person: ~w~Yes, I was with my friends having consumed a few whisky bottles, and I fell asleep...", 
+                "~b~Person: ~w~and then when I woke up, I was disoriented!", 
             },
         };
 
@@ -60,8 +60,8 @@ namespace WildernessCallouts.Dialogues
         {
             new string[]
             {
-                "~b~" + Settings.General.Name + ": ~w~Do you need my assistance?",
-                "~b~Person: ~w~Yes, I'm so scared. I have seen lots of aggressive animals around here", 
+                "~b~" + Settings.General.Name + ": ~w~Do you require any assistance?",
+                "~b~Person: ~w~Yes, I'm so scared! I have seen lots of aggressive animals around here!", 
                 "~b~Person: ~w~Please help me!", 
             },
         };
